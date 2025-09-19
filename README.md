@@ -16,7 +16,7 @@ This project demonstrates full-stack development skills using Spring Boot, Hiber
 
 🎨 Responsive UI (Thymeleaf + Bootstrap)
 
-🗄 Database Integration  with the  MySQL (JPA + Hibernate ORM)
+🗄 Database Integration  with the  MySQL (JPA + Hibernate ORM)  
 
 🛠 Tech Stack
 
