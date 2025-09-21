@@ -6,7 +6,7 @@ This project demonstrates full-stack development skills using Spring Boot, Hiber
 
 🔑 User Authentication & Authorization (Spring Security + JWT / Session based)
 
-👤 Add, Edit, Delete, and View Contacts
+👤 Add, Edit, Delete, and View Contacts 
 
 📂 Upload & Manage Contact Profile Images
 
